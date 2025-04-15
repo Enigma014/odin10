@@ -37,7 +37,7 @@ function Contact(){
 <br />
 <br />
 <br />
-<br />
+<br /><br/>
         <input type="text" value={name} onChange={(event)=>setName(event.target.value)}/>
         <button onClick={editName}>edit your name</button>
         <input type="text" value={number} onChange={(event)=>setNumber(event.target.value)}/>

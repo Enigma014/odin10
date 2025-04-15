@@ -40,7 +40,7 @@ function Experience(){
 <br />
 <br />
 <br />
-<br />
+<br /><br /><br />
         <input type="text" value={name} onChange={(event)=>setName(event.target.value)}/>
         <button onClick={editName}>edit company name</button>
         <input type="text" value={position} onChange={(event)=>setPosition(event.target.value)}/>
